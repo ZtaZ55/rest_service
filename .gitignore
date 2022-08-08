@@ -1,0 +1,8 @@
+.idea/*
+__pycache__/*
+data/*
+core/__pycache__/*
+db/__pycache__/*
+endpoints/__pycache__/*
+models/__pycache__/*
+repositories/__pycache__/*
